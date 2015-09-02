@@ -1,0 +1,34 @@
+
+
+/*--------------IMPORTANTE-------------------------*/
+
+SOLO FUNCIONA CON FIRMWARE 1.2.0 y 1.2.6
+
+
+
+/*---------------INSTRUCCIONES-----------------------*/
+Escoger la configuracion que deseamos
+Copiar en la raiz de la tarjeta sd (junto a carpetas DCIM y MISC)
+Renombrar (tiene que quedar así sino no funciona) autoexec.ash
+Al encender la camara hará varios pitidos que confirman su correcta instalación
+
+
+/*-----------CONFIGURACIONES DISPONIBLES--------------*/
+
+COMPLETO:
+bitrates subidos a 25-30-35 en calidad alta para 1080 720 y 480
+adición de 2k (2304x1296) por defecto al encender la camara con bitrate 30mbps
+adición de fotos en formato RAW
+mejora de ajustes de color gamma...
+reducción de ruido
+eliminación de ficheros inutiles
+
+HDR
+bitrates subidos a 25 en calidad alta para 1080 720 y 480
+adición de 2k por defecto al encender la camara con bitrate 30mbps
+ESTABLECE AJUSTES PARA FOTOS HDR
+reducción de ruido
+eliminación de ficheros inutiles
+
+ELIM-RUIDO:
+solo elim ruido
